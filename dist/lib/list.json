@@ -1,0 +1,542 @@
+{
+    "book1" : {
+        "src" : "../img/list1.jpg",
+        "name" : "活着",
+        "writer" : "余华 著 余华 编",
+        "price" : "34.6",
+        "o_price" : "￥45.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-07-01"
+    },
+    "book2" : {
+        "src" : "../img/list2.jpg",
+        "name" : "额尔古纳河右岸",
+        "writer" : "迟子建 著" ,
+        "price" : "25.3",
+        "o_price" : "￥32.0",
+        "press" : "人民文学出版社",
+        "time" : "2019-06-01"
+    },
+    "book3" : {
+        "src" : "../img/list3.jpg",
+        "name" : "遥远的救世主",
+        "writer" : "豆豆 著" ,
+        "price" : "37.0",
+        "o_price" : "￥48.0",
+        "press" : "作家出版社",
+        "time" : "2008-04-01"
+    },
+    "book4" : {
+        "src" : "../img/list4.jpg",
+        "name" : "默读全集(礼盒版)(3册)",
+        "writer" : "Priest 著" ,
+        "price" : "37.0",
+        "o_price" : "￥48.0",
+        "press" : "其他",
+        "time" : "2018-12-01"
+    },
+    "book5" : {
+        "src" : "../img/list5.jpg",
+        "name" : "生死疲劳",
+        "writer" : "莫言 著" ,
+        "price" : "50.3",
+        "o_price" : "￥69.9",
+        "press" : "浙江文艺出版社",
+        "time" : "2022-01-01"
+    },
+    "book6" : {
+        "src" : "../img/list6.jpg",
+        "name" : "乡土中国/作家经典文库",
+        "writer" : "费孝通 著" ,
+        "price" : "23.0",
+        "o_price" : "￥29.8",
+        "press" : "作家出版社",
+        "time" : "2019-09-01"
+    },
+    "book7" : {
+        "src" : "../img/list7.jpg",
+        "name" : "将进酒",
+        "writer" : "唐酒卿 著" ,
+        "price" : "46.8",
+        "o_price" : "￥68.0",
+        "press" : "江苏文艺出版社",
+        "time" : "2020-04-01"
+    },
+    "book8" : {
+        "src" : "../img/list8.jpg",
+        "name" : "天幕红尘",
+        "writer" : "豆豆 著" ,
+        "price" : "37.0",
+        "o_price" : "￥48.0",
+        "press" : "作家出版社",
+        "time" : "2020-05-01"
+    },
+    "book9" : {
+        "src" : "../img/list9.jpg",
+        "name" : "晚熟的人（精）",
+        "writer" : "莫言 著" ,
+        "price" : "46.6",
+        "o_price" : "￥59.0",
+        "press" : "人民文学出版社",
+        "time" : "2020-08-01"
+    },
+    "book10" : {
+        "src" : "../img/list10.jpg",
+        "name" : "白鹿原",
+        "writer" : "陈忠实 著" ,
+        "price" : "35.6",
+        "o_price" : "￥45.0",
+        "press" : "人民文学出版社",
+        "time" : "2019-09-01"
+    },
+    "book11" : {
+        "src" : "../img/list11.jpg",
+        "name" : "我们仨",
+        "writer" : "杨绛 著" ,
+        "price" : "21.0",
+        "o_price" : "￥28.0",
+        "press" : "生活·读书·新知三联书店",
+        "time" : "2018-06-01"
+    },
+    "book12" : {
+        "src" : "../img/list12.jpg",
+        "name" : "唐朝那些事（7册）",
+        "writer" : "冬雪心境 著" ,
+        "price" : "143.4",
+        "o_price" : "￥42.4",
+        "press" : "中国工人出版社",
+        "time" : "2019-04-01"
+    },
+    "book13" : {
+        "src" : "../img/list13.jpg",
+        "name" : "人生海海",
+        "writer" : "麦家 著" ,
+        "price" : "42.4",
+        "o_price" : "￥55.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2019-03-01"
+    },
+    "book14" : {
+        "src" : "../img/list14.jpg",
+        "name" : "平凡的世界（1-3）",
+        "writer" : "路遥 著" ,
+        "price" : "106.3",
+        "o_price" : "￥138.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-06-01"
+    },
+    "book15" : {
+        "src" : "../img/list15.jpg",
+        "name" : "我与地坛（纪念版）",
+        "writer" : "史铁生 著" ,
+        "price" : "21.8",
+        "o_price" : "￥29.0",
+        "press" : "人民文学出版社",
+        "time" : "2011-06-01"
+    },
+    "book16" : {
+        "src" : "../img/list16.jpg",
+        "name" : "围城",
+        "writer" : "钱钟书 著" ,
+        "price" : "28.4",
+        "o_price" : "￥36.0",
+        "press" : "人民文学出版社",
+        "time" : "2017-07-01"
+    },
+    "book17" : {
+        "src" : "../img/list17.jpg",
+        "name" : "许三观卖血记 ",
+        "writer" : "余华 著" ,
+        "price" : "31.6",
+        "o_price" : "￥39.5",
+        "press" : "北京十月文艺出版社",
+        "time" : "2017-10-01"
+    },
+    "book18" : {
+        "src" : "../img/list18.jpg",
+        "name" : "文城",
+        "writer" : "余华 著" ,
+        "price" : "45.4",
+        "o_price" : "￥59.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-03-01"
+    },
+    "book19" : {
+        "src" : "../img/list19.jpg",
+        "name" : "乡土中国 ",
+        "writer" : "费孝通 著" ,
+        "price" : "18.2",
+        "o_price" : "￥28.0",
+        "press" : "青岛出版社",
+        "time" : "2022-04-25"
+    },
+    "book20" : {
+        "src" : "../img/list20.jpg",
+        "name" : "秋园 ",
+        "writer" : "杨本芬 著" ,
+        "price" : "27.7",
+        "o_price" : "￥38.0",
+        "press" : "北京联合出版社",
+        "time" : "2020-06-01"
+    },
+    "book21" : {
+        "src" : "../img/list21.jpg",
+        "name" : "平凡的世界 普及本",
+        "writer" : "路遥 著" ,
+        "price" : "38.1",
+        "o_price" : "￥49.5",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-06-01"
+    },
+    "book22" : {
+        "src" : "../img/list22.jpg",
+        "name" : "天局 ",
+        "writer" : "矫健 著 无 编 无 译" ,
+        "price" : "29.3",
+        "o_price" : "￥38.0",
+        "press" : "作家出版社",
+        "time" : "2016-07-01"
+    },
+    "book23" : {
+        "src" : "../img/list23.jpg",
+        "name" : "一句顶一万句（典藏版） ",
+        "writer" : "刘震云 著" ,
+        "price" : "33.8",
+        "o_price" : "￥45.0",
+        "press" : "长江文艺出版社",
+        "time" : "2016-08-01"
+    },
+    "book24" : {
+        "src" : "../img/list24.jpg",
+        "name" : "家",
+        "writer" : "巴金 著" ,
+        "price" : "31.6",
+        "o_price" : "￥39.5",
+        "press" : "人民文学出版社",
+        "time" : "1981-09-01"
+    },
+    "book25" : {
+        "src" : "../img/list25.jpg",
+        "name" : "人世间",
+        "writer" : "梁晓声 著" ,
+        "price" : "171.4",
+        "o_price" : "￥238.0",
+        "press" : "中国青年出版社",
+        "time" : "2017-11-01"
+    },
+    "book26" : {
+        "src" : "../img/list26.jpg",
+        "name" : "在细雨中呼喊",
+        "writer" : "余华 著" ,
+        "price" : "30.4",
+        "o_price" : "￥39.5",
+        "press" : "北京十月文艺出版社",
+        "time" : "2018-05-01"
+    },
+    "book27" : {
+        "src" : "../img/list27.jpg",
+        "name" : "汉朝那些事（8册）",
+        "writer" : "飘雪楼主 著" ,
+        "price" : "145.6",
+        "o_price" : "￥224.0",
+        "press" : "中国工人出版社",
+        "time" : "2019-04-01"
+    },
+    "book28" : {
+        "src" : "../img/list28.jpg",
+        "name" : "【预售】文学大师经典代表作:活着+百年孤独(全2册)",
+        "writer" : "余华,(哥伦)加西亚·马尔克斯 著 范晔 译" ,
+        "price" : "77.0",
+        "o_price" : "￥100.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-10-01"
+    },
+    "book29" : {
+        "src" : "../img/list29.jpg",
+        "name" : "穆斯林的葬礼",
+        "writer" : "霍达 著" ,
+        "price" : "38.4",
+        "o_price" : "￥49.8",
+        "press" : "北京十月文艺出版社",
+        "time" : "2018-09-01"
+    },
+    "book30" : {
+        "src" : "../img/list30.jpg",
+        "name" : "巨流河",
+        "writer" : "齐邦媛 著" ,
+        "price" : "24.6",
+        "o_price" : "￥32.0",
+        "press" : "生活·读书·新知三联书店",
+        "time" : "2011-04-01"
+    },
+    "book31" : {
+        "src" : "../img/list31.jpg",
+        "name" : "皮囊",
+        "writer" : "蔡崇达 著" ,
+        "price" : "33.4",
+        "o_price" : "￥49.8",
+        "press" : "天津人民出版社",
+        "time" : "2014-12-01"
+    },
+    "book32" : {
+        "src" : "../img/list32.jpg",
+        "name" : "狼图腾",
+        "writer" : "姜戎 著" ,
+        "price" : "53.1",
+        "o_price" : "￥69.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2020-02-01"
+    },
+    "book33" : {
+        "src" : "../img/list33.jpg",
+        "name" : "蛙",
+        "writer" : "莫言 著" ,
+        "price" : "36.8",
+        "o_price" : "￥49.0",
+        "press" : "浙江文艺出版社",
+        "time" : "2020-03-01"
+    },
+    "book34" : {
+        "src" : "../img/list34.jpg",
+        "name" : "乡土中国整本阅读与研习手册",
+        "writer" : "刘智清，王锡婷 编" ,
+        "price" : "14.8",
+        "o_price" : "￥19.0",
+        "press" : "中华书局",
+        "time" : "2020-06-01"
+    },
+    "book35" : {
+        "src" : "../img/list35.jpg",
+        "name" : "尘埃落定",
+        "writer" : "阿来 著" ,
+        "price" : "31.9",
+        "o_price" : "￥49.0",
+        "press" : "浙江文艺出版社",
+        "time" : "2020-09-01"
+    },
+    "book36" : {
+        "src" : "../img/list36.jpg",
+        "name" : "人生",
+        "writer" : "路遥 著" ,
+        "price" : "30.4",
+        "o_price" : "￥39.5",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-07-01"
+    },
+    "book37" : {
+        "src" : "../img/list37.jpg",
+        "name" : "黄金时代",
+        "writer" : "王小波 著" ,
+        "price" : "45.4",
+        "o_price" : "￥59.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-06-01"
+    },
+    "book38" : {
+        "src" : "../img/list38.jpg",
+        "name" : "一日三秋",
+        "writer" : "刘震云 著" ,
+        "price" : "43.5",
+        "o_price" : "￥58.0",
+        "press" : "花城文艺出版社",
+        "time" : "2021-07-01"
+    },
+    "book39" : {
+        "src" : "../img/list39.jpg",
+        "name" : "第七天",
+        "writer" : "余华 著" ,
+        "price" : "30.4",
+        "o_price" : "￥39.5",
+        "press" : "新星出版社",
+        "time" : "2018-08-01"
+    },
+    "book40" : {
+        "src" : "../img/list40.jpg",
+        "name" : "仿徨+呐喊（两册）",
+        "writer" : "鲁迅 著" ,
+        "price" : "51.1",
+        "o_price" : "￥72.0",
+        "press" : "中国友谊出版社",
+        "time" : "2017-10-01"
+    },  
+    "book41" : {
+        "src" : "../img/list41.jpg",
+        "name" : "三国那些事儿（5册）",
+        "writer" : "昊天牧云 著" ,
+        "price" : "113.1",
+        "o_price" : "￥174.0",
+        "press" : "中国工人出版社",
+        "time" : "2019-04-01"
+    }, 
+    "book42" : {
+        "src" : "../img/list42.jpg",
+        "name" : "沧浪之水",
+        "writer" : "闫真 著" ,
+        "price" : "37.7",
+        "o_price" : "￥49.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-07-01"
+    }, 
+    "book43" : {
+        "src" : "../img/list43.jpg",
+        "name" : "苦难辉煌",
+        "writer" : "金一南 著" ,
+        "price" : "60.8",
+        "o_price" : "￥79.0",
+        "press" : "作家出版社",
+        "time" : "2020-08-01"
+    },
+    "book44" : {
+        "src" : "../img/list44.jpg",
+        "name" : "我本芬芳",
+        "writer" : "杨本芬 著" ,
+        "price" : "29.1",
+        "o_price" : "￥39.8",
+        "press" : "北京联合出版公司",
+        "time" : "2022-02-01"
+    },
+    "book45" : {
+        "src" : "../img/list45.jpg",
+        "name" : "当代西方文艺理论（第3版）",
+        "writer" : "无 著" ,
+        "price" : "42.6",
+        "o_price" : "￥56.0",
+        "press" : "华东师范出版社",
+        "time" : "2014-08-01"
+    },
+    "book46" : {
+        "src" : "../img/list46.jpg",
+        "name" : "恰同学少年",
+        "writer" : "黄晖 著" ,
+        "price" : "21.6",
+        "o_price" : "￥30.0",
+        "press" : "湖南人民出版社",
+        "time" : "2007-07-01"
+    },
+    "book47" : {
+        "src" : "../img/list47.jpg",
+        "name" : "行者无疆",
+        "writer" : "余秋雨 著" ,
+        "price" : "23.1",
+        "o_price" : "￥32.0",
+        "press" : "长江文艺出版社",
+        "time" : "2012-11-01"
+    },
+    "book48" : {
+        "src" : "../img/list48.jpg",
+        "name" : "我是你爸爸",
+        "writer" : "王朔  著" ,
+        "price" : "27.0",
+        "o_price" : "￥35.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2015-03-01"
+    },
+    "book49" : {
+        "src" : "../img/list49.jpg",
+        "name" : "看上去很美",
+        "writer" : "王朔  著" ,
+        "price" : "27.0",
+        "o_price" : "￥35.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2015-03-01"
+    },
+    "book50" : {
+        "src" : "../img/list50.jpg",
+        "name" : "一半是火焰 一半是海水",
+        "writer" : "王朔  著" ,
+        "price" : "27.0",
+        "o_price" : "￥35.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2015-03-01"
+    },
+    "book51" : {
+        "src" : "../img/list51.jpg",
+        "name" : "我是你爸爸",
+        "writer" : "王朔  著" ,
+        "price" : "27.0",
+        "o_price" : "￥35.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2015-03-01"
+    },
+    "book52" : {
+        "src" : "../img/list52.jpg",
+        "name" : "四世同堂",
+        "writer" : "老舍  著" ,
+        "price" : "34.6",
+        "o_price" : "￥45.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2012-07-01"
+    },
+    "book53" : {
+        "src" : "../img/list53.jpg",
+        "name" : "茶人三部曲（3册)",
+        "writer" : "王旭峰 著" ,
+        "price" : "98.8",
+        "o_price" : "￥125.0",
+        "press" : "人民文学出版社",
+        "time" : "2004-05-01"
+    },
+    "book54" : {
+        "src" : "../img/list54.jpg",
+        "name" : "棋王",
+        "writer" : "阿城  著" ,
+        "price" : "36.5",
+        "o_price" : "￥48.0",
+        "press" : "上海三联文化传播有限公司",
+        "time" : "2019-04-01"
+    },
+    "book55" : {
+        "src" : "../img/list55.jpg",
+        "name" : "云中记",
+        "writer" : "阿来 著" ,
+        "price" : "42.4",
+        "o_price" : "￥55.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2019-04-01"
+    },
+    "book56" : {
+        "src" : "../img/list56.jpg",
+        "name" : "繁花",
+        "writer" : "金宇澄 著" ,
+        "price" : "37.9",
+        "o_price" : "￥48.0",
+        "press" : "人民文学出版社",
+        "time" : "2019-03-01"
+    },
+    "book57" : {
+        "src" : "../img/list57.jpg",
+        "name" : "秦腔",
+        "writer" : "贾平凹  著" ,
+        "price" : "30.8",
+        "o_price" : "￥39.0",
+        "press" : "人民文学出版社",
+        "time" : "2019-03-01"
+    },
+    "book58" : {
+        "src" : "../img/list58.jpg",
+        "name" : "且在人间",
+        "writer" : "余秀华 著" ,
+        "price" : "34.6",
+        "o_price" : "￥45.0",
+        "press" : "湖南文艺出版社",
+        "time" : "2019-02-01"
+    },
+    "book59" : {
+        "src" : "../img/list59.jpg",
+        "name" : "废都",
+        "writer" : "贾平凹 著" ,
+        "price" : "38.5",
+        "o_price" : "￥50.0",
+        "press" : "作家出版社",
+        "time" : "2018-08-01"
+    },
+    "book60" : {
+        "src" : "../img/list60.jpg",
+        "name" : "一只特立独行的猪",
+        "writer" : "王小波 著" ,
+        "price" : "45.4",
+        "o_price" : "￥59.0",
+        "press" : "北京十月文艺出版社",
+        "time" : "2021-01-01"
+    }
+}

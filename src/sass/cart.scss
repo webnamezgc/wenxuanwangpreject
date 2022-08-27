@@ -1,0 +1,315 @@
+main{
+  margin: 0 auto;
+  width: 1016px;
+  text-align: left;
+  font-size: 1em;
+  position: relative;
+  #header{
+    height: 100px;
+    h1{
+      font-size: 100%;
+      font-weight: 400;
+      p{
+        float: right;
+        width: 80px;
+        color: #7e7e7e;
+        font-size: 1.5em;
+        line-height: 46px;
+        text-align: right;
+        cursor: pointer;
+      }
+    }
+    .nav{
+      margin: 10px 0;
+      background: #ccc url(../img/bread-buy.jpg) no-repeat 0 0;
+      height: 33px;
+    }
+  }
+  #content{
+    padding: 10px 0;
+    .table_list{
+      border: 1px solid #ddd;
+      background: #fffefd;
+      margin-bottom: 20px;
+      .thead{
+        height: 36px;
+        border-bottom: 1px solid #ddd;
+        clear: both;
+        background: #f3f3f3;
+        div{
+          height: 36px;
+          float: left;
+          line-height: 36px;
+          text-align: center;
+          color: #666;
+        }
+        .product{
+          width: 435px;
+        }
+        .price {
+          width: 105px;
+        }
+        .credits {
+          width: 95px;
+        }
+        .privilege, .quantity {
+          width: 120px;
+        }
+        .operation {
+          width: 100px;
+        }
+      }
+      .prom_group{
+        .trow {
+          height: 65px;
+          border-bottom: 1px solid #ddd;
+          clear: both;
+          .checkbox {
+            width: 35px;
+            position: relative;
+            input {
+              position: absolute;
+              top: 23px;
+              left: 20px;
+            }
+          }
+          div {
+            height: 65px;
+            float: left;
+            text-align: center;
+            color: #333;
+          }
+          input {
+            position: absolute;
+            line-height: normal;
+          }
+          .product {
+            width: 400px;
+            text-align: left;
+            display: flex;
+            a:first-child {
+              width: 65px;
+              flex-shrink: 0;
+              padding: 0;
+            }
+            img {
+              height: 55px;
+              width: 55px;
+              float: left;
+              margin: 5px;
+              overflow: hidden;
+            }
+            a:nth-child(2) {
+              -moz-box-flex: 1;
+              flex: 1;
+              text-align: left;
+              overflow: hidden;
+              -o-text-overflow: ellipsis;
+              text-overflow: ellipsis;
+              -webkit-line-clamp: 2;
+              -webkit-box-orient: vertical;
+              height: 40px;
+            }
+            .red-hint {
+              color: #c00;
+              font-size: 12px;
+              height: 35px;
+              overflow: hidden;
+              margin-top: 5px;
+            }
+          }
+          .credits, .price,.privilege,.product,.quantity{
+            border-right: 1px solid #fff;
+          }
+          .credits,.price,.quantity {
+            line-height: 65px;
+          }
+          .price {
+            width: 105px;
+          }
+          .credits {
+            width: 95px;
+          }
+          .privilege, .quantity {
+            width: 120px;
+          }
+          .quantity {
+            position: relative;
+            .reduce {
+              background: url(../img/icons.png) no-repeat 0 0;
+              top: 24px;
+              left: 18px;
+            }
+            a {
+              position: absolute;
+              line-height: normal;
+              display: block;
+              width: 18px;
+              height: 13px;
+              text-indent: -9999px;
+              overflow: hidden;
+            }
+            input {
+              width: 40px;
+              text-align: center;
+              border: 1px solid #ddd;
+              border-radius: 2px;
+              height: 20px;
+              top: 20px;
+              left: 40px;
+              ime-mode: disabled;
+            }
+            .increase {
+              background: url(../img/icons.png) no-repeat -23px 0;
+              top: 24px;
+              left: 86px;
+            }
+            .operation {
+              height: 32px;
+              width: 100px;
+              padding: 16px 0;
+              a {
+                display: block;
+                line-height: 33px;
+                text-align: center;
+                cursor: pointer;
+                padding-left: 5px;
+              }
+            }
+          }
+         
+        }
+      }
+      .tfoot{
+        background: #f3f3f3;
+        .summary {
+          height: 50px;
+          background: #fff;
+          position: relative;
+          ul {
+            clear: both;
+            padding: 10px 20px;
+            li {
+              float: left;
+              line-height: 24px;
+              margin: 0 10px 0 0;
+              padding: 0 8px 0 20px;
+              a {
+                background: #fff;
+                display: block;
+              }
+            }
+            .delete {
+              background: url(../img/icons.png) no-repeat -63px 4px;
+            }
+            .favorite {
+              background: url(../img/icons.png) no-repeat -44px 4px;
+            }
+          }
+          .brief {
+            width: 360px;
+            position: absolute;
+            right: 0;
+            top: 0;
+            div {
+              height: 25px;
+              line-height: 25px;
+              clear: both;
+              
+            }
+            span {
+              width: 100px;
+              text-align: right;
+              b {
+                color: #c00;
+              }
+            }
+            label {
+              width: 100px;
+              text-indent: 10px;
+            }
+            p {
+              width: 145px;
+              text-align: right;
+            }
+          }
+          .save {
+            
+            label {
+              width: 200px;
+              text-indent: 110px;
+            }
+          }
+        }
+        .count {
+          height: 40px;
+          position: relative;
+          clear: both;
+          .balance {
+            width: 450px;
+            position: absolute;
+            right: 0;
+            top: 5px;
+            height: 30px;
+            line-height: 30px;
+            label {
+              width: 110px;
+              right: 220px;
+              font-weight: bolder;
+            }
+            p {
+              font-weight: bolder;
+              font-size: 1.2em;
+            }
+          }
+        }
+      }
+      .button-wrap {
+        height: 80px;
+        clear: both;
+        .continue {
+          float: left;
+          width: 142px;
+          height: 45px;
+          .b{
+            background-position: 0 -4px;
+          }
+        }
+        a {
+          background-color: #f2f2f2;
+          border: none;
+          color: #333;
+          position: relative;
+          display: block;
+          padding: 0;
+          margin: 0;
+          zoom: 1;
+          outline: none;
+        }
+        .submit_btn{
+          float: right;
+          width: 208px;
+          height: 45px;
+        
+          b{
+            background-position: -142px -4px;
+            width: 208px;
+            height: 45px;
+          }
+        }
+        b {
+            
+            width: 142px;
+            height: 45px;
+            display: block;
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 9;
+            background-image: url(../img/balance-button.jpg);
+            cursor: pointer;
+          }
+      }  
+    }
+  }
+}
